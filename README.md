@@ -2,4 +2,6 @@
 ## This is a repository made with educational purposes
 
 ### Compiling and running
-    Use a c++ compiler of your preference and compile the five files in any folder, then run it!
+#### Use a c++ compiler of your preference and compile the five files in any folder, then run it!
+#### For example
+        g++ *
