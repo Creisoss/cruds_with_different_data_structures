@@ -1,7 +1,7 @@
 #include "queue.h"
-//CLEAR will clear the terminal in all operating systems
+// CLEAR will clear the terminal in all operating systems
 #define CLEAR std::cout << "\033[2J\033[1;1H";
-
+// git test
 
 int main(){
 	Queue queue;
